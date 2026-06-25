@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,14 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0068-text-justification) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
