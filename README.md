@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Amit-kumar-123778/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amit-kumar-123778/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
