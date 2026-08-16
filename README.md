@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/Amit-kumar-123778/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -183,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
