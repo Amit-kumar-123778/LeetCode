@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Amit-kumar-123778/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
