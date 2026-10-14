@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0877-stone-game](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0877-stone-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Amit-kumar-123778/LeetCode/tree/master/0135-candy) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Amit-kumar-123778/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting Sort
 |  |
 | ------- |
